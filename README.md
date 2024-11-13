@@ -1,8 +1,5 @@
 # Welcome to Urja Thermal's GitHub
 
-![Urja Thermal Logo](https://github.com/urjathermal/urjathermal/blob/main/urja-logo.png?raw=true)  
-*Leading the Future of Power & Energy Solutions*
-
 [![Powered by Clean Energy](https://img.shields.io/badge/Powered%20by-Clean%20Energy-green)](https://www.urjathermal.com)
 
 ---
