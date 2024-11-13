@@ -68,7 +68,7 @@ At Urja Thermal, we envision a world where clean, sustainable energy powers ever
 ## 🎥 Visuals from Our Work
 
 ![Nuclear Power Plant](https://i.pinimg.com/originals/08/3b/34/083b34fa3afd905db665f263145322b2.gif)  
-A new energy source in operation*  
+*A new energy source in operation*  
 
 ---
 
